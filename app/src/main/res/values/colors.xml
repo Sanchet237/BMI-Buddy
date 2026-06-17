@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_primary">#00BFA5</color>
+    <color name="teal_dark">#00897B</color>
+    <color name="teal_light">#1DE9B6</color>
+    <color name="bg_screen">#F7F8FC</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="border_light">#E5E7EB</color>
+    <color name="bmi_underweight">#5B9BD5</color>
+    <color name="bmi_normal">#4CAF50</color>
+    <color name="bmi_overweight">#FF9800</color>
+    <color name="bmi_obese">#F44336</color>
+</resources>

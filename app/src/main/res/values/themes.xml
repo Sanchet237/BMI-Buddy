@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BMICalculator" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#00BFA5</item>
+        <item name="colorPrimaryVariant">#00897B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#1DE9B6</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:colorBackground">#F7F8FC</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#1A1A2E</item>
+        <item name="android:statusBarColor">#F7F8FC</item>
+        <item name="android:navigationBarColor">#F7F8FC</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

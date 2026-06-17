@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="app_title">BMI Calculator</string>
+    <string name="app_subtitle">Know your Body Mass Index</string>
+    <string name="metric_unit">Metric (cm / kg)</string>
+    <string name="imperial_unit">Imperial (ft / lbs)</string>
+    <string name="height_label">HEIGHT</string>
+    <string name="weight_label">WEIGHT</string>
+    <string name="height_cm_hint">e.g. 175</string>
+    <string name="height_ft_hint">ft</string>
+    <string name="height_in_hint">in</string>
+    <string name="weight_hint">e.g. 70</string>
+    <string name="centimeters">centimeters</string>
+    <string name="kilograms">kilograms</string>
+    <string name="feet_inches">feet · inches</string>
+    <string name="pounds">pounds (lbs)</string>
+    <string name="calculate_btn">CALCULATE BMI</string>
+    <string name="clear_btn">CLEAR</string>
+    <string name="info_btn">ℹ What is BMI?</string>
+    <string name="share_btn">↗ Share Result</string>
+
+    <string name="result_label">YOUR RESULT</string>
+    <string name="bmi_scale_label">BMI SCALE</string>
+    <string name="healthy_range_label">HEALTHY RANGE</string>
+    <string name="healthy_range_value">18.5 – 24.9</string>
+    <string name="status_label">STATUS</string>
+    <string name="reference_label">BMI REFERENCE</string>
+
+    <string name="underweight">Underweight</string>
+    <string name="normal_weight">Normal Weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+    <string name="underweight_range">Below 18.5</string>
+    <string name="normal_range">18.5 – 24.9</string>
+    <string name="overweight_range">25.0 – 29.9</string>
+    <string name="obese_range">30.0 and above</string>
+
+    <string name="desc_underweight">Your BMI suggests you may be underweight. Consider consulting a healthcare provider for personalized dietary advice.</string>
+    <string name="desc_normal">Great! You are within the healthy weight range. Maintain a balanced diet and regular physical activity.</string>
+    <string name="desc_overweight">You are slightly above the healthy range. Incorporating more activity and balanced meals can help.</string>
+    <string name="desc_obese">Your BMI indicates obesity. It\'s recommended to speak with a healthcare professional for guidance.</string>
+
+    <string name="info_dialog_title">What is BMI?</string>
+    <string name="info_dialog_message">Body Mass Index (BMI) is a simple measure that uses your height and weight to work out if your weight is healthy.\n\n📐 Formula:\nBMI = weight (kg) ÷ height² (m²)\n\n📊 Categories:\n• Below 18.5 — Underweight\n• 18.5 – 24.9 — Normal Weight\n• 25.0 – 29.9 — Overweight\n• 30.0 and above — Obese\n\n⚠️ Note: BMI is a screening tool, not a diagnostic measure. Consult a healthcare professional for medical advice.</string>
+    <string name="info_dialog_button">Got it</string>
+
+    <string name="share_title">BMI Calculator Result</string>
+    <string name="share_message">📊 BMI Calculation Report\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n📈 Your BMI: %s\n📋 Classification: %s\n\n✅ Healthy BMI Range: 18.5 – 24.9\n\n💡 Tip: Maintain a balanced diet and regular physical activity for optimal health.\n\nCalculated using BMI Calculator App</string>
+    <string name="share_subject">BMI Calculation Report</string>
+    <string name="share_chooser">Share your BMI result via</string>
+
+    <string name="error_height_required">Please enter your height</string>
+    <string name="error_feet_required">Please enter feet</string>
+    <string name="error_weight_required">Please enter your weight</string>
+    <string name="error_height_positive">Height must be greater than 0</string>
+    <string name="error_weight_positive">Weight must be greater than 0</string>
+    <string name="error_height_realistic">Please enter a realistic height (max 300 cm)</string>
+    <string name="error_weight_realistic">Please enter a realistic weight</string>
+    <string name="error_inches_range">Inches must be 0–11</string>
+
+    <string name="toast_calculate_first">Calculate your BMI first!</string>
+    <string name="toast_share_success">Shared successfully!</string>
+
+    <string name="created_by">Created By</string>
+    <string name="creator_name">Sanchet Kolekar</string>
+    <string name="instagram_desc">Instagram</string>
+    <string name="linkedin_desc">LinkedIn</string>
+    <string name="github_desc">GitHub</string>
+
+    <string name="scale_under">Under</string>
+    <string name="scale_normal">Normal</string>
+    <string name="scale_over">Over</string>
+    <string name="scale_obese">Obese</string>
+</resources>
