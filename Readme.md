@@ -82,11 +82,11 @@ That's the whole flow. No sign-in. Fully offline.
 
 | Launch | Home | Result |
 |:---:|:---:|:---:|
-| <img src="./s/Launch.png" width="200"/> | <img src="./s/Home.png" width="200"/> | <img src="./s/Result.png" width="200"/> |
+| <img src="./ScreenShots/Launch.png" width="200"/> | <img src="./ScreenShots/Home.png" width="200"/> | <img src="./ScreenShots/Result.png" width="200"/> |
 
 | Share | | |
 |:---:|:---:|:---:|
-| <img src="./s/Share.png" width="200"/> | | |
+| <img src="./ScreenShots/Share.png" width="200"/> | | |
 
 </div>
 
