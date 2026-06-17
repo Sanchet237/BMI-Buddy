@@ -84,9 +84,9 @@ That's the whole flow. No sign-in. Fully offline.
 |:---:|:---:|:---:|
 | <img src="./Screenshots/Launch.png" width="200"/> | <img src="./Screenshots/Home.png" width="200"/> | <img src="./Screenshots/Result.png" width="200"/> |
 
-| Share | | |
-|:---:|:---:|:---:|
-| <img src="./Screenshots/Share.png" width="200"/> | | |
+| Share | 
+|:---:|
+| <img src="./Screenshots/Share.png" width="200"/> | 
 
 </div>
 
