@@ -136,7 +136,7 @@ git clone https://github.com/Sanchet237/BMIBuddy.git
 
 <div align="center">
 
-<img src="./s/BMI Logo.png" width="140" alt="BMI Buddy Logo"/>
+<img src="./Screenshots/BMI Logo.png" width="140" alt="BMI Buddy Logo"/>
 
 Made with ❤️ by <a href="https://github.com/Sanchet237"><strong>Sanchet Kolekar</strong></a>
 
