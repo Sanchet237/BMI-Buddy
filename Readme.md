@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ScreenShots/BMI Logo.png" width="300" align="center" alt="BMI Buddy Logo"/>
+<img src="./Screenshots/BMI Logo.png" width="300" align="center" alt="BMI Buddy Logo"/>
 
 ## **Calculate · Track · Share**
 
@@ -76,17 +76,17 @@ That's the whole flow. No sign-in. Fully offline.
 
 
 
-## 📱 Screenshots
+## 📱 s
 
 <div align="center">
 
 | Launch | Home | Result |
 |:---:|:---:|:---:|
-| <img src="./ScreenShots/Launch.png" width="200"/> | <img src="./ScreenShots/Home.png" width="200"/> | <img src="./ScreenShots/Result.png" width="200"/> |
+| <img src="./s/Launch.png" width="200"/> | <img src="./s/Home.png" width="200"/> | <img src="./s/Result.png" width="200"/> |
 
 | Share | | |
 |:---:|:---:|:---:|
-| <img src="./ScreenShots/Share.png" width="200"/> | | |
+| <img src="./s/Share.png" width="200"/> | | |
 
 </div>
 
@@ -102,7 +102,7 @@ BMIBuddy/
 │           ├── java/               # Application source code
 │           ├── res/                # Layouts, drawables, strings
 │           └── AndroidManifest.xml
-├── ScreenShots/                    # App preview images
+├── s/                    # App preview images
 ├── README.md
 └── LICENSE
 ```
@@ -136,7 +136,7 @@ git clone https://github.com/Sanchet237/BMIBuddy.git
 
 <div align="center">
 
-<img src="./ScreenShots/BMI Logo.png" width="140" alt="BMI Buddy Logo"/>
+<img src="./s/BMI Logo.png" width="140" alt="BMI Buddy Logo"/>
 
 Made with ❤️ by <a href="https://github.com/Sanchet237"><strong>Sanchet Kolekar</strong></a>
 
